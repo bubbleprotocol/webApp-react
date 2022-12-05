@@ -6,10 +6,10 @@
 3. NPM
 
 #Run on Dev
-npm run dev
+1. npm run dev
 
 #Build Package
-npm run build
+1. npm run build
 
 #Run on Server
-npm run start
+1. npm run start
